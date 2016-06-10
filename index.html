@@ -1,0 +1,24 @@
+---
+layout: default
+---
+
+<div class="ui three stackable doubling cards">
+
+  {% for post in site.posts %}
+  <a href="{{ post.link-slack }}" class="ui fluid link card">
+    <div class="content">
+      <div class="header">{{ post.title }}</div>
+      <div class="meta">
+        <span class="category">{{ post.date | date: "%b %-d, %Y" }}</span>
+      </div>
+      <div class="description">
+        {{ post.content }}
+      </div>
+    </div>
+    <div class="extra content link-slack">
+    {{ post.link-slack }}
+    </div>
+  </a>
+  {% endfor %}
+
+</div>

@@ -1,0 +1,19 @@
+# Site settings
+title: Slack Groups
+description: Vanhackers List of Slack Groups
+favicon: /assets/img/avatar.jpg
+baseurl: 
+url: http://paulodealmeida.github.io
+rss_url: /pages/atom.xml
+google_analytics: # UA-74208838-1
+
+# Build settings
+markdown: kramdown
+
+exclude: [vendor]
+
+# Template settings
+template:
+  title: Slack Groups
+  description: Vanhackers List of Slack Groups
+  
