@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "HackerX"
+categories: hacker maker
+link-slack: https://karangoel.typeform.com/to/mEl3P9
+---
+HackerX is chat community of hackers and makers from all over the world to facilitate networking, Q&A's, feedback and more. It's like StackOverflow, but not really. :)

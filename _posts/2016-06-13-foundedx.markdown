@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Founded X"
+categories: startup entrepreneurship
+link-slack: http://foundedx.com/
+---
+All countries in the world have their own unique advantages and characteristics. Starting a business in each of these places requires exceptional courage and persistence. The lists presented by the Founded X community are a tribute to all innovative startups worldwide that are proud of their local roots.
